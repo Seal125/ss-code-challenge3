@@ -13,7 +13,7 @@
 
 ## Code Challenge
 
-Remove all elements from a linked list of integers that have value val.
+Remove all elements from a linked list of integers that have value _val_.
 
 Example:
 
